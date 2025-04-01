@@ -25,6 +25,10 @@ Alle repositorier må ha en MIT License.
 
 Alle repositorier må ha en forklarende README-fil som beskriver hensikten med repositoriet.
 
+### Etiske regler
+
+Statens pensjonskasse [etiske regler](CODE_OF_CONDUCT.md) er basert på og oversatt fra [Contributor Covenant](https://www.contributor-covenant.org/)
+
 ## Hvordan komme i gang?
 
 All informasjon du trenger for å komme i gang finner du i vår [utvikler håndbok](https://handbok.utv.spk.no/plattform/github/).
