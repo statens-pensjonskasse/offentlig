@@ -15,7 +15,7 @@ Produkter og tjenester utviklet av SPK bør derfor være fritt tilgjengelige. If
 
 ## Krav til åpne repoer
 
-Alle åpne repositorier må opprettes gjennom [selve-service-repo](https://github.com/statens-pensjonskasse/self-service-repo).
+Alle åpne repositorier må opprettes gjennom [self-service-repo](https://github.com/statens-pensjonskasse/self-service-repo).
 
 ### Lisens
 
@@ -23,7 +23,7 @@ Alle repositorier må ha en MIT License.
 
 ### README
 
-Alle repositorier må ha en forklarende README-fil som beskrive hensikten med repositoriet.
+Alle repositorier må ha en forklarende README-fil som beskriver hensikten med repositoriet.
 
 ## Hvordan komme i gang?
 
