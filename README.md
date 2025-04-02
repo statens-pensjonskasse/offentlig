@@ -32,3 +32,13 @@ Statens pensjonskasse [etiske regler](CODE_OF_CONDUCT.md) er basert på og overs
 ## Hvordan komme i gang?
 
 All informasjon du trenger for å komme i gang finner du i vår [utvikler håndbok](https://handbok.utv.spk.no/plattform/github/).
+
+# Referanser
+
+Kilde som brukes til inspirasjon:
+
+- [NAV offentlig](https://github.com/navikt/offentlig)
+- [DigDir overordnede arkitekturprinsipper ](https://www.digdir.no/digital-samhandling/overordnede-arkitekturprinsipper/1065)
+- [Altinn](https://github.com/Altinn/.github/blob/main/profile/README.md)
+- [Offentleglova](https://lovdata.no/dokument/NL/lov/2006-05-19-16)
+- [Contributor covenant](https://www.contributor-covenant.org/)
