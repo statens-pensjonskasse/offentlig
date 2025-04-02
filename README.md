@@ -1,3 +1,5 @@
+# !! DRAFT - Må godkjennes av TLG !!
+
 # Retningslinjer for åpen kildekode i Statens pensjonskasse
 
 ## Introduksjon
