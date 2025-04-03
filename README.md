@@ -19,6 +19,24 @@ Produkter og tjenester utviklet av SPK bør derfor være fritt tilgjengelige. If
 
 Alle åpne repositorier må opprettes gjennom [self-service-repo](https://github.com/statens-pensjonskasse/self-service-repo).
 
+### Før publisering
+
+All kode må gjennom en dokumentert sikkerhetssjekk før den gjøres offentlig.
+Koden skal ikke inneholde sensitiv informasjon eller interne systemdetaljer.
+Ansvarlig team og kontaktperson må være definert.
+Retningslinjene for publisering må godkjennes av rett instans – f.eks. Sikkerhetssenteret, IT-ledelse eller jurist.
+
+### Ved mottak av sårbarhetsrapport
+
+Eksterne må ha en tydelig kanal for å rapportere sikkerhetsfunn se [SIKKERHET](SIKKERHET.md)
+SPK bekrefter mottak innen 3 virkedager og vurderer innen 10 virkedager.
+
+### Etter publisering – forvaltning og oppfølging
+
+Hvert team må ha ansvar for videre vedlikehold og sårbarhetsoppfølging.
+Det må være krav til hvor raskt sårbarheter skal håndteres – maks 10 virkedager.
+Sikkerhetssenteret skal kunne følge opp team som ikke håndterer svakheter som rapporteres.
+
 ### Lisens
 
 Alle repositorier må ha en MIT License.
