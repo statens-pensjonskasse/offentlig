@@ -1,10 +1,10 @@
 # Retningslinjer for åpen kildekode i Statens pensjonskasse
 
-## Åpenkildekode
+## Åpen kildekode
 
 Åpen kildekode har mange fordeler, for eksempel:
 
-- Økt kvalitet på koden og dokumentasjon.
+- Økt kvalitet på koden og dokumentasjonen.
 - Bedre samarbeid og større synlighet av koden.
 - Fremmer deling av kompetanse og løsninger gjennom fellesskapet.
 
