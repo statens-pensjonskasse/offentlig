@@ -13,12 +13,13 @@
 ### Før publisering
 
 All kode må gjennom en dokumentert sikkerhetssjekk før den gjøres offentlig.
-Koden skal ikke inneholde sensitiv informasjon eller interne systemdetaljer - dette inkluderer også kodehistorikken dvs alle tidligere commits som kan være synlig dvs alle tidligere commits som kan være synlig.
+Koden skal ikke inneholde sensitiv informasjon eller interne systemdetaljer - dette inkluderer også kodehistorikken dvs alle tidligere commits som kan være synlig.
 Ansvarlig team og kontaktperson må være definert.
 Retningslinjene for publisering må godkjennes av rett instans – f.eks. Sikkerhetssenteret, IT-ledelse eller jurist.
 
-### Ved mottak av sårbarhetsrappordette inkludererha en tydelig kanal for å rapportere sikkerhetsfunn se [SIKKERHET](SIKKERHET.md)
+### Ved mottak av sårbarhetsrapport
 
+Eksterne må ha en tydelig kanal for å rapportere sikkerhetsfunn se [SIKKERHET](SIKKERHET.md)
 SPK bekrefter mottak innen 3 virkedager og vurderer innen 10 virkedager.
 
 ### Etter publisering – forvaltning og oppfølging
