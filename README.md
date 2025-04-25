@@ -1,28 +1,19 @@
-# !! DRAFT - Må godkjennes av TLG !!
-
 # Retningslinjer for åpen kildekode i Statens pensjonskasse
 
-## Introduksjon
-
-Statens pensjonskasse er en offentlig virksomhet finansiert av fellesskapets midler.
-Produkter og tjenester utviklet av SPK bør derfor være fritt tilgjengelige. Ifølge [offentleglova](https://lovdata.no/dokument/NL/lov/2006-05-19-16) – Lov om rett til innsyn i dokument i offentleg verksemd – skal offentlige virksomheter være åpne og gjennomsiktige. Åpen kildekode er en utmerket måte å støtte dette lovverket på.
-
-## Åpenkildekode
+## Åpen kildekode
 
 Åpen kildekode har mange fordeler, for eksempel:
 
-- Økt kvalitet på koden i våre løsninger.
-- Bedre samarbeid og større synlighet av koden.
+- Økt kvalitet på kode og dokumentasjon.
+- Bedre samarbeid og større synlighet av kode.
 - Fremmer deling av kompetanse og løsninger gjennom fellesskapet.
 
 ## Krav til åpne repoer
 
-Alle åpne repositorier må opprettes gjennom [self-service-repo](https://github.com/statens-pensjonskasse/self-service-repo).
-
 ### Før publisering
 
 All kode må gjennom en dokumentert sikkerhetssjekk før den gjøres offentlig.
-Koden skal ikke inneholde sensitiv informasjon eller interne systemdetaljer.
+Koden skal ikke inneholde sensitiv informasjon eller interne systemdetaljer. Dette inkluderer også kodehistorikken, alle tidligere commits, som kan være synlig.
 Ansvarlig team og kontaktperson må være definert.
 Retningslinjene for publisering må godkjennes av rett instans – f.eks. Sikkerhetssenteret, IT-ledelse eller jurist.
 
@@ -51,7 +42,7 @@ Statens pensjonskasse [etiske regler](CODE_OF_CONDUCT.md) er basert på og overs
 
 ## Hvordan komme i gang?
 
-All informasjon du trenger for å komme i gang finner du i vår [utvikler håndbok](https://handbok.utv.spk.no/plattform/github/).
+All informasjon du trenger for å komme i gang finner du i vår interne [utvikler håndbok](https://handbok.utv.spk.no/plattform/github/).
 
 # Referanser
 
