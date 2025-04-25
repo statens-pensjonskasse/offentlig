@@ -4,8 +4,8 @@
 
 Åpen kildekode har mange fordeler, for eksempel:
 
-- Økt kvalitet på koden og dokumentasjonen.
-- Bedre samarbeid og større synlighet av koden.
+- Økt kvalitet på kode og dokumentasjon.
+- Bedre samarbeid og større synlighet av kode.
 - Fremmer deling av kompetanse og løsninger gjennom fellesskapet.
 
 ## Krav til åpne repoer
