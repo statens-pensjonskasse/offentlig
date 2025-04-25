@@ -13,7 +13,7 @@
 ### Før publisering
 
 All kode må gjennom en dokumentert sikkerhetssjekk før den gjøres offentlig.
-Koden skal ikke inneholde sensitiv informasjon eller interne systemdetaljer - dette inkluderer også kodehistorikken dvs alle tidligere commits som kan være synlig.
+Koden skal ikke inneholde sensitiv informasjon eller interne systemdetaljer. Dette inkluderer også kodehistorikken, alle tidligere commits, som kan være synlig.
 Ansvarlig team og kontaktperson må være definert.
 Retningslinjene for publisering må godkjennes av rett instans – f.eks. Sikkerhetssenteret, IT-ledelse eller jurist.
 
@@ -42,7 +42,7 @@ Statens pensjonskasse [etiske regler](CODE_OF_CONDUCT.md) er basert på og overs
 
 ## Hvordan komme i gang?
 
-All informasjon du trenger for å komme i gang finner du i vår intern [utvikler håndbok](https://handbok.utv.spk.no/plattform/github/).
+All informasjon du trenger for å komme i gang finner du i vår interne [utvikler håndbok](https://handbok.utv.spk.no/plattform/github/).
 
 # Referanser
 
