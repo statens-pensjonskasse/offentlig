@@ -1,12 +1,20 @@
 # Retningslinjer for åpen kildekode i Statens pensjonskasse
 
-## Åpen kildekode
+## Formål
+
+Retningslinjen skal sikre at publisering og forvaltning av åpen kildekode skjer på en trygg, strukturert og bærekraftig måte, i tråd med virksomhetens verdier og sikkerhetskrav.
+
+## Hvorfor åpen kildekode?
 
 Åpen kildekode har mange fordeler, for eksempel:
 
-- Økt kvalitet på kode og dokumentasjon.
-- Bedre samarbeid og større synlighet av kode.
-- Fremmer deling av kompetanse og løsninger gjennom fellesskapet.
+- **Høyere kvalitet** – eksterne tilbakemeldinger og feilrapportering forbedrer koden og dokumentasjon.
+- **Bedre samarbeid og innovasjon** – flere utviklere kan bidra med forbedringer og nye ideer.
+- **Økt transparens og tillit** – gir innsyn i hvordan systemene fungerer.
+- **Styrket sikkerhet** – flere kan oppdage og fikse sårbarheter.
+- **Etisk og juridisk ansvar** – offentlig sektor kan vise åpenhet og ansvarlighet.
+- **Sparing av ressurser** – gjenbruk av eksisterende løsninger i stedet for å bygge fra bunnen av.
+- **Konkurransefortrinn** – forbedrer omdømmet og tiltrekker talentfulle utviklere.
 
 ## Krav til åpne repoer
 
@@ -17,11 +25,6 @@ Koden skal ikke inneholde sensitiv informasjon eller interne systemdetaljer. Det
 Ansvarlig team og kontaktperson må være definert.
 Retningslinjene for publisering må godkjennes av rett instans – f.eks. Sikkerhetssenteret, IT-ledelse eller jurist.
 
-### Ved mottak av sårbarhetsrapport
-
-Eksterne må ha en tydelig kanal for å rapportere sikkerhetsfunn se [SIKKERHET](SIKKERHET.md)
-SPK bekrefter mottak innen 3 virkedager og vurderer innen 10 virkedager.
-
 ### Etter publisering – forvaltning og oppfølging
 
 Hvert team må ha ansvar for videre vedlikehold og sårbarhetsoppfølging.
@@ -30,21 +33,27 @@ Sikkerhetssenteret skal kunne følge opp team som ikke håndterer svakheter som 
 
 ### Lisens
 
-Alle repositorier må ha en MIT License.
+Alle åpne repositorier skal inkludere en LICENSE-fil med MIT-lisensen. Dette gir brukere og bidragsytere tydelig oversikt over rettigheter og forpliktelser.
 
 ### README
 
 Alle repositorier må ha en forklarende README-fil som beskriver hensikten med repositoriet.
 
-### Etiske regler
+## Etiske regler
 
-Statens pensjonskasse [etiske regler](CODE_OF_CONDUCT.md) er basert på og oversatt fra [Contributor Covenant](https://www.contributor-covenant.org/)
+Vi benytter [etiske regler](CODE_OF_CONDUCT.md) basert på [Contributor Covenant](https://www.contributor-covenant.org/) for å sikre et inkluderende, respektfullt og konstruktivt bidragsmiljø. Reglene gjelder både interne og eksterne bidragsytere.
+
+## Sikkerhet
+
+### Ved mottak av sårbarhetsrapport
+
+Eksterne må ha en tydelig kanal for å rapportere sikkerhetsfunn se [SIKKERHET](SIKKERHET.md).
 
 ## Hvordan komme i gang?
 
 All informasjon du trenger for å komme i gang finner du i vår interne [utvikler håndbok](https://handbok.utv.spk.no/plattform/github/).
 
-# Referanser
+## Referanser
 
 Kilde som brukes til inspirasjon:
 
